@@ -1,0 +1,6 @@
+public class Prodcut
+{
+	private String name;
+	
+
+}
