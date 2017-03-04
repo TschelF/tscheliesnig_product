@@ -1,5 +1,6 @@
 public class Prodcut
 {
 	private String name;	
+	private float prize;
 
 }
